@@ -1,4 +1,7 @@
-const h2 = document.createElement('h2')
-h2.textContent = 'JavaScript is magical'
+// const goodLuck = document.getElementById('luck')
 
-document.querySelector('body').appendChild(h2)
+addEventListener('mouseover', (e) => {})
+
+onmouseover = (e) => {
+    e.target.style.color = "#00328a"
+}
