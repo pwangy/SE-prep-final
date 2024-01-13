@@ -1,7 +1,7 @@
 # Build a Personal Website
 As a final project to Flatiron's Software Engineering Prep Course, we've been tasked with creating a personal site incorporating HTML, CSS, and JavaScript.
 
-This page is meant to be viewed on desktop and loads with a very light text color as the default. ;)
+This page is best viewed on desktop and loads with a very light text color as the default. ;)
 
 # Completed Requirements
 - [x] Create a local repository folder
